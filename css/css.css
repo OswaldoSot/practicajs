@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #B9F948;
+}
+.ti{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.formu{
+    width: 200px;
+    margin: auto;
+    background:#48F9B5 ;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+
+
+}
+.containeriner{
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#boton{
+    background: #313384 ;
+    color: #fff;
+    padding: 4px; 
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+#boton:hover{
+    cursor: pointer;
+}
